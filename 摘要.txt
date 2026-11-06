@@ -1,0 +1,8 @@
+《Grok国内使用渠道汇总》要点（2026-11-06 北京时间核对）
+1) 官网级代充：GPTPro https://chongzhi.chatgpt-plus.top/grok/ — 新号半价首月 Premium¥180 / Super¥468 / Ultra¥875，对应官网约$30/$100/$200；常规CDK对应Premium。
+2) 节点镜像：momoAI.New SuperGrok节点 — 约35节点（推荐16/繁忙19），Super/Grok分流。
+3) API包月：momoai.asia SuperGrok包月 — 倍率×3，日$80/月$1500额度；售价需登录看。
+4) 导航：trygpt.asia/list/#/home — SPA导航入口，列表需进站查看。
+5) 官方套餐 The X Subscription：Plus$8 / Premium$30 / Super$100 / Ultra$200；Grok Bot自Premium起。Heavy等是对话模式不是套餐。
+6) 风险：xAI明确不授权第三方转售，第三方订阅可能被停用。
+全文：/workspace/grok-cn-channels/Grok国内使用渠道汇总.md
